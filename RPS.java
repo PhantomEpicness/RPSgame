@@ -1,7 +1,8 @@
 /* @author Donald Wyand
  * @date 10/8/23
  * ICS 211 RPS project
- * 
+ * Copyright (C) 2023 Donald Wyand
+ * Licensed under GPLv3 (included)
 */
 
 /* ****************************************************************
